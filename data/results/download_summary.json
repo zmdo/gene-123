@@ -1,0 +1,19 @@
+{
+  "downloaded_at_utc": "2026-05-05T02:47:59.399982+00:00",
+  "query": "((\"Chilli veinal mottle virus\"[Organism]) OR ChiVMV[All Fields] OR chivmv[All Fields]) AND (\"complete genome\"[Title] OR \"complete sequence\"[Title])",
+  "record_count": 39,
+  "records_with_host": 36,
+  "host_counts": {
+    "Capsicum annuum": 20,
+    "Nicotiana tabacum": 7,
+    "unknown": 3,
+    "Capsicum chinense": 2,
+    "Solanum lycopersicum": 2,
+    "Solanum nigrum": 2,
+    "Basella alba": 1,
+    "Capsicum spp.": 1,
+    "Datura inoxia": 1
+  },
+  "min_length": 9499,
+  "max_length": 9782
+}
